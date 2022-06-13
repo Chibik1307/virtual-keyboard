@@ -8,7 +8,7 @@ const plugins = [
 ];
 
 module.exports = {
-	entry: './index.js',
+	entry: './src/index.js',
 	mode: 'development',
 	plugins,
 
