@@ -291,7 +291,6 @@ const Keyboard = {
 		this.elements.textarea.setAttribute('cols', '46');
 		this.elements.textarea.setAttribute('rows', '5');
 		this.elements.textarea.setAttribute('autofocus', '');
-		this.elements.textarea.value = 'Я пыталась хD';
 
 		this.elements.container.appendChild(this.elements.textarea);
 		this.elements.container.appendChild(this.elements.keyboard);
